@@ -3,9 +3,7 @@ import psuLogo from "../assets/PSU_logo.png";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 
-export const HERO_CONTENT = `I'm a dedicated full-stack developer with a passion for building intuitive, scalable, and innovative web applications. With hands-on experience at FedEx Corporation and a solid academic background from The Pennsylvania State University, I specialize in transforming complex problems into elegant digital solutions. Whether it's enhancing user interfaces or integrating cutting-edge machine learning techniques, I thrive on the challenge of driving innovation in every project I undertake.
-
-Explore my projects below or get in touch to discuss how we can collaborate on your next big idea.`;
+export const HERO_CONTENT = `I'm a dedicated full-stack developer with a passion for building intuitive, scalable, and innovative web applications. With hands-on experience at FedEx Corporation and a solid academic background from The Pennsylvania State University, I specialize in transforming complex problems into elegant digital solutions. Whether it's enhancing user interfaces or integrating cutting-edge machine learning techniques, I thrive on the challenge of driving innovation in every project I undertake.`;
 
 export const ABOUT_TEXT = {
   personalJourney: {
