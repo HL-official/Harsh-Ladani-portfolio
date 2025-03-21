@@ -43,7 +43,7 @@ const Navbar = () => {
             <FaLinkedin />
           </a>
           <a
-            href="https://github.com/harshladani"
+            href="https://github.com/HL-official"
             target="_blank"
             rel="noopener noreferrer"
             className="cursor-pointer transition-all duration-200 hover:scale-110 hover:text-purple-100"
@@ -51,7 +51,7 @@ const Navbar = () => {
             <FaGithub />
           </a>
           <a
-            href="https://www.instagram.com/harshladani/"
+            href="https://www.instagram.com/harsh_ladani/"
             target="_blank"
             rel="noopener noreferrer"
             className="cursor-pointer transition-all duration-200 hover:scale-110 hover:text-purple-100"
@@ -59,7 +59,7 @@ const Navbar = () => {
             <FaInstagram />
           </a>
           <a
-            href="https://twitter.com/harshladani"
+            href="https://x.com/ladani_harsh"
             target="_blank"
             rel="noopener noreferrer"
             className="cursor-pointer transition-all duration-200 hover:scale-110 hover:text-purple-100"
