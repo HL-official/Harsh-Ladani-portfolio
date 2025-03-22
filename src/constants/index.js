@@ -84,7 +84,7 @@ export const PROJECTS = [
   {
     title: "AI-Powered PDF Query System",
     image: project2,
-    github: "https://github.com/harshladani/pdf-query-ai",
+    github: "https://github.com/HL-official/local-pdf-reader/tree/master",
     description:
       "Built an intelligent PDF query system using RAG architecture and local LLMs. Integrated custom text embeddings via Ollama and Mistral AI for secure document processing, enabling precise and context-aware responses to user queries.",
     technologies: ["Python", "LLM", "RAG", "NLP", "Ollama", "Mistral AI"],
@@ -92,7 +92,7 @@ export const PROJECTS = [
   {
     title: "Movie & TV Show Recommender System",
     image: project3,
-    github: "https://github.com/harshladani/movie-recommender",
+    github: "https://github.com/HL-official/Movie-Recommendation-System",
     description:
       "Created a sophisticated movie recommendation engine analyzing 5,500+ titles. Implemented TF-IDF vectorization for text processing and cosine similarity matching, delivering personalized suggestions that significantly improve user engagement.",
     technologies: ["Python", "NLP", "Machine Learning", "TF-IDF", "Scikit-learn"],
