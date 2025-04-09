@@ -61,7 +61,7 @@ const Hero = () => {
               initial={{ x: 100, opacity: 0 }}
               animate={{ x: 0, opacity: 1 }}
               transition={{ duration: 1, delay: 1.2 }}
-              src="/HL_profile.JPG"
+              src="/HL_Prof.jpg"
               alt="Harsh Ladani"
               className="mask-image rounded-2xl w-2/3"
               style={{
