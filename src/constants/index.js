@@ -8,16 +8,14 @@ export const HERO_CONTENT = `I'm a dedicated full-stack developer with a passion
 export const ABOUT_TEXT = {
   personalJourney: {
     title: 'Personal Journey',
-    content: `My journey into technology began with a fascination for how software can simplify everyday tasks and drive global innovation. I pursued a Bachelor's of Science in Computer Science at Penn State, where I immersed myself in both theoretical studies and real-world applications. This blend of rigorous academics and practical experience has been the foundation of my professional growth.`
+    content: `I've always been drawn to technology. Growing up, I was the first among family and friends to install a graphics card in my computer for better gaming experiences and likely the only one in my zip code with an Alexa and smart bulb setup at home. This early fascination evolved during high school when I discovered that computer science could empower me to create my own tools and solutions. This revelation set me on a clear path to Penn State, where I pursued my Bachelor's in Computer Science. After four years fueled by caffeine and countless office hours, I graduated with distinction. Today, I'm living my dream as a Full Stack Developer at FedEx, doing what I've always loved - computing.`
   },
   professionalPassion: {
     title: 'Professional Passion',
-    content: `I am continually inspired by the ever-evolving landscape of technology. My work at FedEx Corporation has allowed me to work on large-scale systems—from designing user-facing features with Angular and Spring Boot to automating CI/CD pipelines using Jenkins. I'm equally passionate about machine learning, as evidenced by projects like my Part-Of-Speech Tagging System and AI-Powered PDF Query System, which merge data science with software engineering to create intelligent solutions.`
-  },
+    content: `I'm driven by a desire to be at the forefront of technology, which means continuously adapting and learning. My current focus is developing skills in Artificial Intelligence, as I believe it represents the next frontier in computing. I aspire to work in an environment where I can contribute to innovations that fundamentally transform how people and technology interact through AI. I want to be part of building solutions that not only solve current problems but anticipate future needs, creating more intuitive and powerful human-computer interactions that drive meaningful progress.`  },
   valuesAndVision: {
-    title: 'Values & Vision',
-    content: `Integrity, continuous learning, and collaboration are at the core of my work ethic. I believe that technology should not only solve problems but also enrich user experiences and drive meaningful change. Outside of coding, I enjoy mentoring and sharing knowledge, whether it's through teaching or contributing to open-source projects.`
-  }
+    title: 'Beyond The Code',
+    content: `When I'm not coding, I thrive on networking and connecting with exciting people who share my enthusiasm for innovation. My downtime often involves playing the latest FPS games or watching the latest films by Nolan or Scorsese.`  }
 };
 
 export const EXPERIENCES = [
