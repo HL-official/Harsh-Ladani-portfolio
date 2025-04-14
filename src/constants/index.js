@@ -3,8 +3,7 @@ import psuLogo from "../assets/PSU_logo.png";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 
-export const HERO_CONTENT = `I'm a dedicated full-stack developer with a passion for building intuitive, scalable, and innovative web applications. With hands-on experience at FedEx Corporation and a solid academic background from The Pennsylvania State University, I specialize in transforming complex problems into elegant digital solutions. Whether it's enhancing user interfaces or integrating cutting-edge machine learning techniques, I thrive on the challenge of driving innovation in every project I undertake.`;
-
+export const HERO_CONTENT = `Full Stack Developer with a passion for AI innovation. From installing my first graphics card to building intelligent systems with RAG architecture, I've pursued technology's cutting edge. Penn State CS graduate now crafting responsive Angular and Spring Boot solutions at FedEx, while advancing NLP projects to get more skilled in AI. When I'm not coding, you'll find me networking with fellow tech enthusiasts or enjoying the latest FPS games and Nolan films.`;
 export const ABOUT_TEXT = {
   personalJourney: {
     title: 'Personal Journey',
